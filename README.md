@@ -19,10 +19,12 @@ expectant: people who are too injured and cannot be saved because of time constr
 minimum java 17 or the newest java that you are on.
 
 ## Building app 
+
 ---
 To run java -cp out WildfireTriage
 ---
 ## using the app
+
 Launch a coding software application of your choice, such as VSCode or IntelliJ. 
 Follow the instructions in the terminal to run 
 
