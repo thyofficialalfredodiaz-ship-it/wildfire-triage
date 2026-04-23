@@ -8,7 +8,7 @@ Patients are in a priority queue/tier; severe people are treated first, while ex
 Severe: in very bad condition, but can be saved 
 delayed: greatly injured but can wait to be treated 
 Minimal: few to no injuries and can be treated later 
-expectant: people who are too injured and can't be saved because of time constraints or no chance of being saved 
+expectant: people who are too injured and cannot be saved because of time constraints or no chance of being saved 
 
 ## Requirements: 
 minimum java 17 or the newest java that you are on.
